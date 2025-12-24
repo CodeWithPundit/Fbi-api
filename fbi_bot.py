@@ -2,7 +2,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8000783368:AAHZn8FFdNy3H6yDrXPNOEUTga6tru30VaE"
 
 FBI_API = "https://api.fbi.gov/wanted/v1/list"
 
